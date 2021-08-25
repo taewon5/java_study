@@ -22,9 +22,9 @@
     <WatchedResource>WEB-INF/web.xml</WatchedResource>
     <Resource name="jdbc/DBName" auth="Container" type="javax.sql.DataSource"
               driverClassName="org.postgresql.Driver"
-              url="jdbc:postgresql://10.10.20.237:5432/edu"
-              username="edu"
-              password="edu"
+              url=""
+              username=""
+              password=""
               maxTotal="6"
               maxIdle="4"
               maxActive="6"
